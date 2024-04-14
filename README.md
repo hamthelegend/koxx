@@ -56,7 +56,7 @@ printLine numbers // valid
 printLine(letters) // still valid
 ```
 
-All functions with more than one parameter require you to name the parameters when called. This is to prevent you from mixing up your parameters.
+All functions with more than one parameter require you to name the parameters when called. This is to prevent you from mixing them up.
 ```
 function getSpeed(distanceInMeters: Double, timeInSeconds: Double) {
     return distance / time
