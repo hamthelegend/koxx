@@ -33,7 +33,7 @@ Classes
 - `Char` → `Character`
 
 ### Functions
-The main function does not need the main keyword
+The main function does not need the function keyword
 ```
 main {
     // your code goes here
