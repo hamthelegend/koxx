@@ -17,7 +17,7 @@ main {
 ### No abbreviations
 In Kotlin, some types and keywords are abbreviated, e.g., `Int`, `Char`, `fun`, while others are not, e.g., `Boolean`. A lot of these don't really make the language less readable; I'm pretty sure every programmer knows what an `Int` is. However, this makes the language very inconsistent.
 
-I know that a lot of these came from Java, but Kotlin could've used the opportunity to fix these inconsistencies. You might argue that this makes typing these keywords harder, but no one codes in a text editor with no code completion.
+I know that a lot of these came from Java, but Kotlin could've used the opportunity to fix these inconsistencies. You might argue that this makes writing these keywords harder, but no one codes in a text editor with no code completion.
 
 #### Here are some of the renames:
 
